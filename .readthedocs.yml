@@ -1,0 +1,12 @@
+version: 2
+
+build:
+  image: latest
+
+conda:
+  environment: environment.dev.yml
+  
+sphinx:
+  builder: html
+  configuration: doc/conf.py
+  fail_on_warning: false

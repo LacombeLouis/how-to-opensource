@@ -18,11 +18,11 @@
 # -- Project information -----------------------------------------------------
 
 project = 'QM How to Opensource'
-copyright = '2022, Louis Lacombe'
-author = 'Louis Lacombe'
+copyright = '2021, Grégoire Martinon, Vianney Taquet, Damien Hervault'
+author = 'Grégoire Martinon, Vianney Taquet, Damien Hervault'
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.1'
+release = '0.0.0'
 
 
 # -- General configuration ---------------------------------------------------
