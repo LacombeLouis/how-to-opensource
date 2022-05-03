@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'QM How to Opensource'
+project = 'QM How to Opensource Louis'
 copyright = '2022, Louis Lacombe'
 author = 'Louis Lacombe'
 
