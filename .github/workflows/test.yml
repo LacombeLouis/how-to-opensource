@@ -22,7 +22,7 @@ jobs:
         python-version: ${{ matrix.python-version }}
         channels: defaults, conda-forge
     - name: Install dependencies
-      run: conda install flake8 mypy numpy pytest-cov
+      run: conda install flake8=3.9.0 mypy=0.800 numpy=1.20.3 pytest-cov=2.11.1
     - name: Check linting
       run: flake8 how_to_opensource
     - name: Check static typing
